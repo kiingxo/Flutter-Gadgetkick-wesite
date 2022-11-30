@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141363319207",
+    "project_id": "gadgetkicks-54a5e",
+    "storage_bucket": "gadgetkicks-54a5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141363319207:android:feaa9897b636acf2402682",
+        "android_client_info": {
+          "package_name": "com.example.flutter_amazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141363319207-ohm3d1s5lq8ie31lue8u8ugpdb7tq0pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRV-sNd0e8DyLBXE3V3sRE7mcWDmGCYt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141363319207-ohm3d1s5lq8ie31lue8u8ugpdb7tq0pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
